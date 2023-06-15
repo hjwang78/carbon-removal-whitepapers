@@ -10,7 +10,7 @@ By pairing each highly durable carbon removal asset with a less durable one that
 
 ## Introduction
 
-Carbon removal is the process by which carbon dioxide is taken out of the atmosphere and stored for some duration of time in a medium. According to the UNEP Emissions Gap Report, by 2050 the world needs to sequester approximately 8 gigatonnes of carbon dioxide annually per year.[^5]<sup>,</sup>[^6] One of the most relevant axes for evaluating carbon removal is its durability: how long does it stay stored after it is removed from the atmosphere?[^7]
+Carbon removal is the process by which carbon dioxide is taken out of the atmosphere and stored for some duration of time in a medium. According to the UNEP Emissions Gap Report, by 2050 the world needs to sequester approximately extra 8 gigatonnes of carbon dioxide annually per year.[^5]<sup>,</sup>[^6] One of the most relevant axes for evaluating carbon removal is its durability: how long does it stay stored after it is removed from the atmosphere?[^7]
 
 The durability of carbon removal methodologies can be defined through the type of carbon storage — biological versus geological carbon storage.[^8]
 
